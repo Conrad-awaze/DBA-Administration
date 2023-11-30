@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Scripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="WERCOVRUATSQLD1:VRUKL\conradgauntlett">
+          <Created>2023-05-02T10:11:02.1452738+01:00</Created>
+          <Type>SQL</Type>
+          <Server>WERCOVRUATSQLD1</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Check Blocking Queue.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Check Blocking Queue.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Check Partition Status.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Check Partition Status.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Check What's Holding Logs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Check What's Holding Logs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Database Restore - READ ONLY Partitions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Database Restore - READ ONLY Partitions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Database Restore - READ_WRITE Partitions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Database Restore - READ_WRITE Partitions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replication - Check Logreader History.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Replication - Check Logreader History.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replication - Check Status.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Replication - Check Status.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replication - Check Transfer rate.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Replication - Check Transfer rate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replication - Check Undelivered Commands.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Replication - Check Undelivered Commands.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Replication - Distribution Row Count.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Replication - Distribution Row Count.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WhoIsActive.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>WhoIsActive.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WhoIsActiveCustom.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WERCOVRUATSQLD1:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WERCOVRUATSQLD1</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>WhoIsActiveCustom.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

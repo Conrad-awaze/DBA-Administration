@@ -1,0 +1,1 @@
+Select name, log_reuse_wait_desc from sys.databases
